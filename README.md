@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Alireza 👋
+I'm currently studying in computer engineer major in university.
 
-<!--
-**alirezashojaian1987/alirezashojaian1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- 💻 Frontend Developer with React
+- 🌱 Currently learning more about NextJS and TypeScript
+- 👯 Collaborating on a project with my frirend
+- 🤔 Trying to understand JS logics XD
+- 🎮 I enjoy playing video games. Trying to make some interesting projects about them
 
-Here are some ideas to get you started:
+## Tech stack
+- Reach JS
+- React Redux
+- Git
+- JavaScript
+- TypeScript
+- NextJS
+- Sass module
+- Tailwind
+- JSON
+- Figma
+- Python
+- C++
+- QT C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github stats
+![Stats](https://github-readme-stats.vercel.app/api?username=alirezashojaian1987&show_icons=true)
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezashojaian1987&layout=compact)
