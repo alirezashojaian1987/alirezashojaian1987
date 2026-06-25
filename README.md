@@ -4,7 +4,7 @@ I'm a Computer Engineering student, passionate about web developing and technolo
 ## About me
 - 💻 Frontend Developer with React
 - 🌱 Currently learning more about NextJS and TypeScript
-- 👯 Collaborating on a project with my friend
+- 👥 Collaborating on a project with my friend
 - 🤔 Trying to understand JS logics XD
 - 🎮 I enjoy playing video games. Trying to make some interesting projects about them
 
