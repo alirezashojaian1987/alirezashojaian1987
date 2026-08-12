@@ -23,10 +23,10 @@ I'm a Computer Engineering student, passionate about web developing and technolo
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 ## Github stats
-![Stats](https://github-readme-stats.vercel.app/api?username=alirezashojaian1987&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alirezashojaian1987&show_icons=true)
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezashojaian1987&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezashojaian1987)
 
 ## Currently working on:
 🚀 Student Management project with Next.js
