@@ -26,7 +26,7 @@ I'm a Computer Engineering student, passionate about web developing and technolo
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alirezashojaian1987&theme=github_dark)
 
 ## GitHub Top languages
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alirezashojaian1987&theme=github_dark)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=alirezashojaian1987)](https://github.com/stats-organization/github-stats-extended)
 
 ## Currently working on:
 🚀 Student Management project with Next.js
