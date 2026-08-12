@@ -22,8 +22,7 @@ I'm a Computer Engineering student, passionate about web developing and technolo
 ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
-## GitHub Stats
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alirezashojaian1987&theme=github_dark)
+## GitHub Stats[![Anurag's GitHub stats-Dark](https://github-stats-extended.vercel.app/api?username=alirezashojaian1987&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only)
 
 ## GitHub Top languages
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=alirezashojaian1987&theme=github_dark&layout=compact)](https://github.com/stats-organization/github-stats-extended)
