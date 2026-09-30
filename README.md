@@ -20,7 +20,6 @@ I'm a Computer Engineering student, passionate about web developing and technolo
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 ## GitHub Stats
 [![Anurag's GitHub stats-Dark](https://github-stats-extended.vercel.app/api?username=alirezashojaian1987&show_icons=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only)
