@@ -28,6 +28,6 @@ I'm a Computer Engineering student, passionate about web developing and technolo
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=alirezashojaian1987&theme=github_dark&layout=compact)](https://github.com/stats-organization/github-stats-extended)
 
 ## Currently working on:
-🚀 Working on some NextJs projects in order to improve my skills and knowledge.
-📚 Learning advanced TypeScript patterns
-🎮 Making some web apps for some games that act as guide, tools and etc.
+- 🚀 Working on some NextJs projects in order to improve my skills and knowledge.
+- 📚 Learning advanced TypeScript patterns
+- 🎮 Making some web apps for some games that act as guide, tools and etc.
